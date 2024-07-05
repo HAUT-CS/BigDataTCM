@@ -22,7 +22,7 @@ BigDataTCM(“大数中医”)是是由"河南工业大学复杂性科学研究�
 A quantized version of BigDataTCM is provided, allowing users with constrained memory or computing resources to access our BigDataTCM.
 | Quantization          | Backbone      | Checkpoint |
 | --------------------- | ------------- | ------------- |
-| BigDataTCM-34B-chat-4bits        | Yi-34B        |  [HF Lnik](https://huggingface.co/BigDataTCM/APUS-BigDataTCM-34B-chat-4bits) |
+| BigDataTCM-34B-chat-4bits        | Yi-34B        |  [HF Lnik](https://huggingface.co/BigDataTCM/APUS-BigDataTCM-34B-chat-4bits/tree/main) |
 
 ### Model Inference
 
