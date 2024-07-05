@@ -1,5 +1,8 @@
 # BigDataTCM
 BigDataTCM(“大数中医”)是是由"河南工业大学复杂性科学研究院"与阿帕斯公司联合研发的一个中医垂直领域大模型，旨在将专业的中医药学知识、医疗信息、数据融会贯通，为中医医疗行业提供智能化的医疗问答、诊断支持和中医学知识等信息服务，提高诊疗效率和医疗服务质量。
+# 更新日志
+### ✨ Latest News
+- [06/30/2024] We released the **quantitative version** of BigDataTCM-34B-chat-4bits.
 
 # 目录
 # 介绍
@@ -19,7 +22,7 @@ BigDataTCM(“大数中医”)是是由"河南工业大学复杂性科学研究�
 A quantized version of BigDataTCM is provided, allowing users with constrained memory or computing resources to access our BigDataTCM.
 | Quantization          | Backbone      | Checkpoint |
 | --------------------- | ------------- | ------------- |
-| BigDataTCM-34B-chat-4bits        | Yi-34B        |  |
+| BigDataTCM-34B-chat-4bits        | Yi-34B        |  [HF Lnik](https://huggingface.co/BigDataTCM/APUS-BigDataTCM-34B-chat-4bits) |
 
 ### Model Inference
 
