@@ -54,14 +54,18 @@ print(response)
 
 ## 评测
 
-中医执业医师考试题评估
+### 中医执业医师考试题评估
 
-模型         得分
-大数中医     80.3
-HuatuoGPT2  68.4
-WiNGPT2     48.2
-浦医2.0     38.9
-MMedLM      33.6
+|                                                               模型                               | SCORE     |
+| -------------------------------------------------------------------------------------------- | -------- | 
+| [大数中医](https://huggingface.co/BigDataTCM/BigDataTCM-34B-chat-4bits)                      |    76.3  | 
+| [HuatuoGPT2](https://huggingface.co/FreedomIntelligence/HuatuoGPT2-34B)        | 68.4     |
+| [WiNGPT2](https://huggingface.co/winninghealth/WiNGPT2-14B-Chat) | 48.2     |
+| [浦医2.0](https://huggingface.co/OpenMEDLab/PULSE-20bv5)               | 38.9     |
+| [MMedLM](https://huggingface.co/Henrychur/MMed-Llama-3-8B)               | 33.6     |
+
+
+## 应用
 
 ![image](https://github.com/HAUT-CS/BigDataTCM/assets/171322113/c0c7c4ea-f2da-42e9-af9f-80052c445362)
 
