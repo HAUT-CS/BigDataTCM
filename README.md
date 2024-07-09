@@ -54,7 +54,17 @@ print(response)
 
 ## 评测
 
-//TODO 
+中医执业医师考试题评估
+
+模型         得分
+大数中医     80.3
+HuatuoGPT2  68.4
+WiNGPT2     48.2
+浦医2.0     38.9
+MMedLM      33.6
+
+![image](https://github.com/HAUT-CS/BigDataTCM/assets/171322113/c0c7c4ea-f2da-42e9-af9f-80052c445362)
+
 
 
 
