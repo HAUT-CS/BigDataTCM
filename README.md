@@ -68,8 +68,3 @@ print(response)
 ## 应用
 
 ![image](https://github.com/HAUT-CS/BigDataTCM/assets/171322113/c0c7c4ea-f2da-42e9-af9f-80052c445362)
-
-
-
-
-
