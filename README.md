@@ -59,7 +59,7 @@ print(response)
 |                                                               模型                               | SCORE     |
 | -------------------------------------------------------------------------------------------- | -------- | 
 | [大数中医(BigDataTCM)](https://huggingface.co/BigDataTCM/BigDataTCM-34B-chat-4bits)                      |    80.3  | 
-| [HuatuoGPT2](https://huggingface.co/FreedomIntelligence/HuatuoGPT2-34B)        | 68.4     |
+| [华佗GPT II(HuatuoGPT2)](https://huggingface.co/FreedomIntelligence/HuatuoGPT2-34B)        | 68.4     |
 | [WiNGPT2](https://huggingface.co/winninghealth/WiNGPT2-14B-Chat) | 48.2     |
 | [浦医2.0](https://huggingface.co/OpenMEDLab/PULSE-20bv5)               | 38.9     |
 | [MMedLM](https://huggingface.co/Henrychur/MMed-Llama-3-8B)               | 33.6     |
